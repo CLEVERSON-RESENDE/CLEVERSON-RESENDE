@@ -17,6 +17,7 @@ Sou natural da cidade de Contagem (MG), atualmente me encontro na cidade de Inha
   <img align="center" alt="Cleverson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
     <img align="center" alt="Cleverson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Cleverson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
+  <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/26his1iVx870qpXDa/giphy.gif">
 </div>
   
   ##
