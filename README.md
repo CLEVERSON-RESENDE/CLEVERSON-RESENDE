@@ -1,4 +1,5 @@
-## Oi! Eu sou o Cleverson Resende👨🏻‍💻 🇧🇷 
+## Oi! Eu sou o Cleverson Resende👨🏻‍💻
+### 🗺️ Programação não é o quanto você sabe, mas o quanto sua imaginação pode alcançar 🧠
 <a href="https://github.com/CLEVERSON-RESENDE-ROSA">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CLEVERSON-RESENDE-ROSA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CLEVERSON-RESENDE-ROSA&layout=compact&langs_count=8&theme=dark"/>
