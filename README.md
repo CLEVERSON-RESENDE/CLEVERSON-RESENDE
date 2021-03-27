@@ -17,7 +17,7 @@ Sou natural da cidade de Contagem (MG), atualmente me encontro na cidade de Inha
   <img align="center" alt="Cleverson-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
     <img align="center" alt="Cleverson-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Cleverson-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
-  <img align="right" alt="Programação" width:"142" height:"142" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+  <img align="right" alt="Programação" width:"60" height:"60" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 </div>
   
   ##
