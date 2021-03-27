@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-[! [Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = CLEVERSON-RESENDE-ROSA )] (https://github.com/anuraghazra/github-readme-stats)
 **CLEVERSON-RESENDE-ROSA/CLEVERSON-RESENDE-ROSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [! [Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = CLEVERSON-RESENDE-ROSA )] (https://github.com/anuraghazra/github-readme-stats)
 -->
