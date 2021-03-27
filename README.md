@@ -1,5 +1,6 @@
 # Oi! Eu sou o Cleverson Resende👨🏻‍💻
-##Um pouco sobre mim:
+Um pouco sobre mim: <br>
+Sou natural da cidade de Contagem (MG), atualmente me encontro na cidade de Inhapim (MG). Tenho 18 anos e sou fascinado pelo mundo da programação! Pelo fato de a programação ser ferramenta de expressão. Sou desenvolvedor front-end a cerca de 6 meses. Neste momento eu estou aprofundado meus conhecimentos em JavaScript e alguns frameworks, em busca de estágios na área.
 ### 🗺️ Programação não é o quanto você sabe, mas o quanto sua imaginação pode alcançar 🧠
 <br>
 <a href="https://github.com/CLEVERSON-RESENDE-ROSA">
