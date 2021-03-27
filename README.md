@@ -2,7 +2,7 @@
 
 <!--
 **CLEVERSON-RESENDE-ROSA/CLEVERSON-RESENDE-ROSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[! [Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = CLEVERSON-RESENDE-ROSA )] (https://github.com/CLEVERSON-RESENDE-ROSA/github-readme-stats)
+[! [Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = CLEVERSON-RESENDE-ROSA )] (https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
