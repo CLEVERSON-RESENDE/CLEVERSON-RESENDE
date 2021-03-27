@@ -1,4 +1,4 @@
-## Oi! Eu sou o Cleverson Resende 
+## Oi! Eu sou o Cleverson Resende:brazil: 
 <a href="https://github.com/CLEVERSON-RESENDE-ROSA">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CLEVERSON-RESENDE-ROSA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CLEVERSON-RESENDE-ROSA&layout=compact&langs_count=8&theme=dark"/>
@@ -17,6 +17,4 @@
   <div>
   <a href = "mailto: cleverson.programacao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/kalli_cleverson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/kalli_cleverson" target="_blank"><img src="https://img.shields.io/static/v1?label=<Underscore>&message=<Twitter>&color=<blue>
-" target="_blank"></a>
 </div>
