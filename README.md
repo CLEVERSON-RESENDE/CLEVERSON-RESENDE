@@ -5,10 +5,10 @@ Sou natural da cidade de Contagem (MG), atualmente me encontro na cidade de Inha
 ### 🗺️ Programação não é o quanto você sabe, mas o quanto sua imaginação pode alcançar 🧠
 <br>
 <a href="https://github.com/CLEVERSON-RESENDE-ROSA">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CLEVERSON-RESENDE-ROSA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CLEVERSON-RESENDE&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <br>
   <br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CLEVERSON-RESENDE-ROSA&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CLEVERSON-RESENDE&layout=compact&langs_count=8&theme=dark"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cleverson-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cleverson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
