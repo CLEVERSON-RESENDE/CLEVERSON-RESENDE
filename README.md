@@ -4,7 +4,7 @@ Um pouco sobre mim: <br>
 Sou natural da cidade de Contagem (MG), atualmente me encontro na cidade de Inhapim (MG). Tenho 18 anos e sou fascinado pelo mundo da programação! Pelo fato de a programação ser minha ferramenta de expressão. Sou desenvolvedor front-end a cerca de 6 meses e neste momento estou aprofundado meus conhecimentos em JavaScript e alguns frameworks, em busca de estágios na área. Além disso, sou apaixonado por Astronomia e ciência ❤️ 🧑‍🔬
 ### 🗺️ Programação não é o quanto você sabe, mas o quanto sua imaginação pode alcançar 🧠
 <br>
-<a href="https://github.com/CLEVERSON-RESENDE-ROSA">
+<a href="https://github.com/CLEVERSON-RESENDE">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CLEVERSON-RESENDE&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <br>
   <br>
